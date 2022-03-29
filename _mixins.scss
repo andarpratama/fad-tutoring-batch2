@@ -1,0 +1,27 @@
+@mixin btn {
+    padding: 10px 12px;
+    border: none;
+    text-transform: uppercase;
+}
+
+@mixin btncoba($data) {
+    padding: 10px 12px;
+    border: none;
+    text-transform: uppercase;
+    background: map-get($color, $data);
+}
+
+@mixin btn-primary {
+    background: map-get($color, 'primary');
+    color: white;
+}
+
+@mixin btn-dark {
+    background: map-get($color, 'dark');
+    color: white;
+}
+
+@mixin btn-warning {
+    background: map-get($color, 'warning');
+    color: black;
+}

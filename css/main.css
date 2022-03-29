@@ -1,0 +1,15 @@
+.login {
+  padding: 10px 12px;
+  border: none;
+  text-transform: uppercase;
+  background: green;
+  color: white;
+}
+
+.register {
+  padding: 10px 12px;
+  border: none;
+  text-transform: uppercase;
+  background: orange;
+}
+/*# sourceMappingURL=main.css.map */
