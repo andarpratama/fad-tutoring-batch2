@@ -1,0 +1,11 @@
+== Selector ==
+
+- element HTML
+- css
+  ~ penggunan selector class itu bukan hanya karna kita ingin 1 element yg sama dengan beda style
+- id = tidak disarankan
+- psuedo class
+
+
+#Parent = orang 
+#Child = anak

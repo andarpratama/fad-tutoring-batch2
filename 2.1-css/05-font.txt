@@ -1,0 +1,14 @@
+=== Property Font ===
+
+- font-family
+  merubah jenis
+- font-size
+  merubah ukuran
+- font-weight
+  merubah ketebalan
+- font-variant
+  kapital / tidak
+- font-style
+  miring / tidak
+- line-height
+  jarak antar baris

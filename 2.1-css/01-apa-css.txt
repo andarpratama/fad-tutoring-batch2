@@ -1,0 +1,6 @@
+Apa itu CSS? CSS kependekan dari Cascading Style Sheet adalah bahasa style yang digunakan untuk mempercantik sebuah website. Di materi CSS Dasar ini-lah kita akan belajar yang berhubungan dengan warna teks, warna latar belakang suatu element, jenis atau font teks dan lainya.
+
+Gambaran Website ibarat Bangunan :
+- Pondasi + Kerangka = HTML
+- Cat + Hiasan = CSS
+- Fungsi bagian2 rumah (Pintu bisa buka tutup, stop kontak) = Javascript

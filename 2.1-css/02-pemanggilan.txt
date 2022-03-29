@@ -1,0 +1,29 @@
+Pemanggilan / Penempatan / Penulisan CSS
+- Inline
+  Penempatan CSS secara Inline adalah penulisan CSS tepat dibaris suatu Element HTML. Gampang-nya penulisan CSS di element HTML secara langsung. Ditulis menggunakan attribute style. Contohnya :
+  <p style=”color: red”>Penempatan CSS Inline</p>
+
+- Internal
+  Penempatan CSS secara internal adalah penulisan CSS didalam file HTML itu sendiri yang letaknya ada di dalam tag <head>. Contohnya :
+  <html>
+    <head>
+        <title>Document</title>
+        <style>
+            p {
+            color: red;
+            }
+        </style>
+    </head>
+    <body>
+     <p>Penempatan CSS Inline</p>
+    </body>
+  </html>
+
+- External
+  Penulisan secara external adalah penempatan CSS diluar file HTML itu sendiri, artinya file HTML dan file CSS-nya terpisah yang nanti-nya kita gabungan dengan kode khusus.
+  Kode khususnya adalah: 
+    <link rel="stylesheet"  href="style.css">
+    - Tag <link> untuk menyambungkan file HTML dengan CSS
+    - Attribut "rel" untuk menentukan jenis file yang kita hubungkan
+    - Attribut "href" diisi dengan nama file CSS-nya
+
