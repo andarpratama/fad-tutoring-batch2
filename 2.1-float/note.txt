@@ -1,0 +1,12 @@
+Float adalah salah satu metode untuk membuat layout sebuah website
+- table
+- floatw
+- flex
+- grid
+
+Property float ada 4 :
+- none
+- left (mengatur element agar berada di sebelah kiri)
+- right (mengatur element agar berada di sebelah kanan)
+- inherit (mengatur element sesuai dengan sifat parent nya )
+
